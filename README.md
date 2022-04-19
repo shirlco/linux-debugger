@@ -1,13 +1,16 @@
 # linux-debugger
 
-## langueges and technologies
+## language and technologies
 C++
 
+ptrace
 
 
 ## instructions
 
-1.Compile debugger\n
-2.Compile the program (you want to debug)\n
-3.write in shell:\n
+1.Compile debugger
+
+2.Compile the program (you want to debug)
+
+3.Write in shell:
 ./debugger <name_of_program>
